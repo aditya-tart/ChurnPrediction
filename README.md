@@ -287,3 +287,7 @@ Aspiring Data Analyst | Machine Learning Engineer
 
 - GitHub: https://github.com/aditya-tart
 - LinkedIn: https://www.linkedin.com/in/aditya-tarte-b9a9472b4/
+
+- ## 🖼️ Project Preview
+
+![Telco Customer Churn Prediction](Telco%20Customer%20Churn%20Prediction.png)
